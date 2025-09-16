@@ -1,16 +1,19 @@
-## Hi there 👋
+# Paweł Żołądkiewicz
+**Senior BI Analyst | Tableau Expert | Migration Expert**
 
-<!--
-**pzoladkiewicz/pzoladkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Aktualny projekt: Retail Omnichannel Optimization  
+📊 Kompetencje: Tableau 8/10, Power BI 5/10, SQL 7/10  
+🎯 Pozycjonowanie: Migration Expert, Platform Translator  
+📈 Portfolio: [Tableau Public](https://public.tableau.com/app/profile/pawelzoladkiewicz/vizzes)
 
-Here are some ideas to get you started:
+## O mnie
+- 8+ lat doświadczenia BI, analityczny rzemieślnik
+- Specializacja: migracje Tableau → Power BI, porównania KPI
+- Motywacja: najpierw jakość, potem automatyzacja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekty flagowe
+- [senior-bi-craftsman-journey](https://github.com/pawel-zoladkiewicz/senior-bi-craftsman-journey)
+
+
+## Kontakt
+📫 pawel.zoladkiewicz@gmail.com | [LinkedIn](https://linkedin.com/in/pzoladkiewicz)
