@@ -12,7 +12,7 @@
 - Motywacja: najpierw jakość, potem automatyzacja
 
 ## Projekty flagowe
-- [senior-bi-craftsman-journey](https://github.com/pawel-zoladkiewicz/senior-bi-craftsman-journey)
+- [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
 
 
 ## Kontakt
