@@ -1,15 +1,23 @@
 # Paweł Żołądkiewicz
-**Senior BI Analyst | Tableau Expert | Migration Expert**
 
-🔭 Aktualny projekt: Retail Omnichannel Optimization  
-📊 Kompetencje: Tableau 8/10, Power BI 5/10, SQL 7/10  
-🎯 Pozycjonowanie: Migration Expert, Platform Translator  
-📈 Portfolio: [Tableau Public](https://public.tableau.com/app/profile/pawelzoladkiewicz/vizzes)
+Po 8 latach pracy w Tableau, odkrywam Power BI. Dokumentuję tę podróż tutaj.
 
-## O mnie
-- 8+ lat doświadczenia BI, analityczny rzemieślnik
-- Specializacja: migracje Tableau → Power BI, porównania KPI
-- Motywacja: najpierw jakość, potem automatyzacja
+## Aktualna przygoda
 
-## Projekty flagowe
-- [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
+Buduję ten sam projekt analityczny w obu narzędziach. Cel: zrozumieć praktyczne różnice między platformami i jak skutecznie migrować projekty.
+
+Dataset: brytyjski e-commerce, 1M+ transakcji  
+Pytania: performance produktów, ekspansja międzynarodowa, quality issues
+
+## Co mnie motywuje
+
+- **Ciekawość**: dlaczego Power BI tak szybko zyskuje na popularności?
+- **Pragmatyzm**: klienci coraz częściej pytają o migracje z Tableau  
+- **Rzemiosło**: każde narzędzie ma swoje miejsce, chcę znać oba dobrze
+
+## Bieżący projekt
+
+**[senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)** - kompletna analiza e-commerce w Power BI i Tableau, porównanie side-by-side
+
+---
+*Aktualizacja: październik 2025 r.*
