@@ -1,22 +1,20 @@
 # Paweł Żołądkiewicz
 
+Senior BI Developer systematycznie poznający Power BI. Dokumentuję praktyczne różnice między Tableau a Power BI przez identyczne projekty biznesowe.
 
-BI Developer z 8-letnim doświadczeniem w Tableau. Uczę się Power BI przez praktykę - buduję te same projekty w obu narzędziach żeby zrozumieć różnice.
+## Aktualne projekty
 
----
+**Analiza e-commerce**: Ten sam dataset, dwie platformy, porównanie podejść i wyników  
+**Laboratorium Azure SQL + SSIS**: Integracja chmury z ETL, praktyczne doświadczenia
 
-## Aktualne projekty 
-- Analiza e-commerce: Power BI vs Tableau side-by-side  
-- Azure SQL + SSIS lab: integracja cloud z on-premise
+**Główne repozytorium**: [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
 
-## Co mnie motywuje
+## Dlaczego to robię
 
-- **Ciekawość**: dlaczego Power BI tak szybko zyskuje na popularności?
-- **Pragmatyzm**: Klienci coraz częściej pytają o migracje z Tableau  
-- **Rzemiosło**: każde narzędzie ma swoje miejsce, chcę znać oba dobrze
+8 lat doświadczenia w Tableau, rynek przesuwa się w kierunku Power BI. Żeby dobrze doradzać w projektach migracyjnych, potrzebuję praktycznego doświadczenia w obu platformach.
 
----
+**Aktualny status**: Dashboard Power BI ukończony, wersja w Tableau w realizacji, porównania i wnioski wkrótce.
 
-**[senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)** - główne repo.
+
 ---
 *Aktualizacja: październik 2025 r.*
