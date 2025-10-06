@@ -13,7 +13,3 @@
 
 ## Projekty flagowe
 - [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
-
-
-## Kontakt
-📫 pawel.zoladkiewicz@gmail.com | [LinkedIn](https://linkedin.com/in/pzoladkiewicz)
