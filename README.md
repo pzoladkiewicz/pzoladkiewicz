@@ -1,6 +1,7 @@
 # Paweł Żołądkiewicz
 
-Senior BI Developer systematycznie poznający Power BI. Dokumentuję praktyczne różnice między Tableau a Power BI przez identyczne projekty biznesowe.
+Senior BI Developer systematycznie poznający Power BI.</br>
+Dokumentuję praktyczne różnice między Tableau a Power BI przez identyczne projekty biznesowe.
 
 ## Aktualne projekty
 
@@ -11,8 +12,10 @@ Senior BI Developer systematycznie poznający Power BI. Dokumentuję praktyczne 
 
 ## Dlaczego to robię
 
-8 lat doświadczenia w Tableau, rynek przesuwa się w kierunku Power BI. Żeby dobrze doradzać w projektach migracyjnych, potrzebuję praktycznego doświadczenia w obu platformach.
+8 lat doświadczenia w Tableau, rynek przesuwa się w kierunku Power BI.</br>
+Aby móc skutecznie i dobrze doradzać w projektach migracyjnych, potrzebuję praktycznego doświadczenia w obu platformach.
 
+---
 **Aktualny status**: Dashboard Power BI ukończony, wersja w Tableau w realizacji, porównania i wnioski wkrótce.
 
 
