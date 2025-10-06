@@ -1,18 +1,18 @@
 # Paweł Żołądkiewicz
 
-Po 8 latach pracy w Tableau, odkrywam Power BI. Dokumentuję tę podróż tutaj.
 
-## Aktualna przygoda
+BI Developer z 8-letnim doświadczeniem w Tableau. Uczę się Power BI przez praktykę - buduję te same projekty w obu narzędziach żeby zrozumieć różnice.
 
-Buduję ten sam projekt analityczny w obu narzędziach. Cel: zrozumieć praktyczne różnice między platformami i jak skutecznie migrować projekty.
+---
 
-Dataset: brytyjski e-commerce, 1M+ transakcji  
-Pytania: performance produktów, ekspansja międzynarodowa, quality issues
+## Aktualne projekty 
+- Analiza e-commerce: Power BI vs Tableau side-by-side  
+- Azure SQL + SSIS lab: integracja cloud z on-premise
 
 ## Co mnie motywuje
 
 - **Ciekawość**: dlaczego Power BI tak szybko zyskuje na popularności?
-- **Pragmatyzm**: klienci coraz częściej pytają o migracje z Tableau  
+- **Pragmatyzm**: Klienci coraz częściej pytają o migracje z Tableau  
 - **Rzemiosło**: każde narzędzie ma swoje miejsce, chcę znać oba dobrze
 
 ## Bieżący projekt
