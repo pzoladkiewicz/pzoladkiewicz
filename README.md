@@ -1,23 +1,29 @@
 # Paweł Żołądkiewicz
 
-Senior BI Developer systematycznie poznający Power BI.</br>
-Dokumentuję praktyczne różnice między Tableau a Power BI przez identyczne projekty biznesowe.
+Po 8 latach pracy w Tableau, uczę się Power BI. Na prawdziwych danych, prawdziwych problemach.
 
-## Aktualne projekty
+## Co aktualnie robię
 
-**Analiza e-commerce**: Ten sam dataset, dwie platformy, porównanie podejść i wyników  
-**Laboratorium Azure SQL + SSIS**: Integracja chmury z ETL, praktyczne doświadczenia
+**Główny projekt:** [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
 
-**Główne repozytorium**: [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
+Buduję ten sam projekt analityczny w Power BI i Tableau. Ten sam dataset, te same pytania biznesowe, różne podejścia. Żeby zobaczyć gdzie każde narzędzie jest lepsze.
 
 ## Dlaczego to robię
 
-8 lat doświadczenia w Tableau, rynek przesuwa się w kierunku Power BI.</br>
-Aby móc skutecznie i dobrze doradzać w projektach migracyjnych, potrzebuję praktycznego doświadczenia w obu platformach.
+- **Klienci pytają** o Power BI coraz częściej
+- **Ciekawość** - dlaczego wszystkie firmy przechodzą na Power BI?  
+- **Praktyka** - żeby dobrze doradzać, muszę znać oba narzędzia
+
+## Co umiem
+
+- **Tableau:** 8 lat, 100+ raportów/dashboardów (o ile jest takie słowo)
+- **SQL:** ETL pipelines, data modeling, quality gates
+- **Power BI:** uczę się systematycznie, PBIP + DAX
+- **Python:** automatyzacja, pandas, data cleaning
+
+## Kontakt
+
+LinkedIn: [/in/pzoladkiewicz](https://linkedin.com/in/pzoladkiewicz)  
 
 ---
-**Aktualny status**: Dashboard Power BI ukończony, wersja w Tableau w realizacji, porównania i wnioski wkrótce.
-
-
----
-*Aktualizacja: październik 2025 r.*
+*Żeby dobrze doradzać w wyborze narzędzia, trzeba znać oba w praktyce.*
