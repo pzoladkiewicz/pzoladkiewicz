@@ -1,5 +1,5 @@
 # Paweł Żołądkiewicz
-## Senior BI Developer | SQL Expert
+## Senior BI/SQL Developer
 
 Robię dashboardy w Tableau od 8 lat. Uczę się Power BI żeby zrozumieć, dlaczego wszyscy o tym mówią.
 
