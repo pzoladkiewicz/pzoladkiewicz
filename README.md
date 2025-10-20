@@ -18,7 +18,7 @@ Buduję te same analizy w obu narzędziach. Na prawdziwych danych e-commerce, ni
 ## Kompetencje
 
 - **SQL:** 8+ lat, prodcedury, widoki, optymalizacja
-- **Tableau:** 8 lat, 100+ raportów/dashboardów (o ile jest takie słowo)
+- **Tableau:** 8 lat, 100+ raportów/dashboardów
 - **Power BI:** W rozwoju - DAX, PBIP
 - **Python:** automatyzacja, pandas, data cleaning
 
