@@ -1,12 +1,13 @@
 # Paweł Żołądkiewicz
+## Senior BI Developer | SQL Expert
 
-Po 8 latach pracy w Tableau, uczę się Power BI. Na prawdziwych danych, prawdziwych problemach.
+Robię dashboardy w Tableau od 8 lat. Uczę się Power BI żeby zrozumieć, dlaczego wszyscy o tym mówią.
 
 ## Co aktualnie robię
+Buduję te same analizy w obu narzędziach. Na prawdziwych danych e-commerce, nie tutorial samples. 
+Żeby zobaczyć gdzie każda platforma jest lepsza i gdzie sprawia problemy.
 
 **Główny projekt:** [senior-bi-craftsman-journey](https://github.com/pzoladkiewicz/senior-bi-craftsman-journey)
-
-Buduję ten sam projekt analityczny w Power BI i Tableau. Ten sam dataset, te same pytania biznesowe, różne podejścia. Żeby zobaczyć gdzie każde narzędzie jest lepsze.
 
 ## Dlaczego to robię
 
@@ -14,11 +15,11 @@ Buduję ten sam projekt analityczny w Power BI i Tableau. Ten sam dataset, te sa
 - **Ciekawość** - dlaczego wszystkie firmy przechodzą na Power BI?  
 - **Praktyka** - żeby dobrze doradzać, muszę znać oba narzędzia
 
-## Co umiem
+## Kompetencje
 
+- **SQL:** 8+ lat, prodcedury, widoki, optymalizacja
 - **Tableau:** 8 lat, 100+ raportów/dashboardów (o ile jest takie słowo)
-- **SQL:** ETL pipelines, data modeling, quality gates
-- **Power BI:** uczę się systematycznie, PBIP + DAX
+- **Power BI:** W rozwoju - DAX, PBIP
 - **Python:** automatyzacja, pandas, data cleaning
 
 ## Kontakt
